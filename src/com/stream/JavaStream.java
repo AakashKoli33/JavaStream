@@ -11,7 +11,7 @@ public class JavaStream {
 		int sum = Arrays.stream(arr)
 				        .sum();
 		
-		System.out.print("Sum " + sum);
+		System.out.print("Sum of array" + sum);
 
 	}
 
